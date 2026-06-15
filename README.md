@@ -24,6 +24,9 @@ A modern and responsive weather application that allows users to search for any 
 * JavaScript (ES6+)
 * OpenWeather API
 
+## 🔗 Live Demo
+
+https://weather-app-by-amol.netlify.app/
 
 ## 🔑 API Used
 
