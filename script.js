@@ -162,4 +162,3 @@ function showDisplaySection(section) {
 
     section.style.display = 'flex';
 };
-
