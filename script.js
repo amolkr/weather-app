@@ -17,7 +17,6 @@ const forecastItemsContainer = document.querySelector('.forecast-items-container
 
 const APIKey = '4e5459611a963874e3420b17e87326c4';
 
-
 searchBtn.addEventListener('click', () => {
     if (cityInput.value.trim() != '') {
         const city = cityInput.value;
@@ -163,3 +162,4 @@ function showDisplaySection(section) {
 
     section.style.display = 'flex';
 };
+

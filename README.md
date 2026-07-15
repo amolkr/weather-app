@@ -79,6 +79,3 @@ The application is fully responsive and optimized for:
 ## 👨‍💻 Author
 
 **Amol Kumar**
-
-
-## 📄 License
